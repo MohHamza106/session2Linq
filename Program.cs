@@ -130,14 +130,14 @@ namespace session2Linq
             //}
             #endregion
             #region 5
-          //  var result = customer.Select(c => c.CustomerName.Substring(c.CustomerName.Length-3))
-          //.Concat(proudct.Select(p => p.ProductName.Substring(p.ProductName.Length-3)));
-       
+            //  var result = customer.Select(c => c.CustomerName.Substring(c.CustomerName.Length-3))
+            //.Concat(proudct.Select(p => p.ProductName.Substring(p.ProductName.Length-3)));
 
-          //  foreach (var item in result)
-          //  {
-          //      Console.WriteLine(item);
-          //  }
+
+            //  foreach (var item in result)
+            //  {
+            //      Console.WriteLine(item);
+            //  }
             #endregion
             #endregion
 
